@@ -2,6 +2,10 @@
 
 AI agent that lets you to talk to your database using natural language. All locally.
 
+
+https://github.com/user-attachments/assets/737b87cb-1e08-4b0a-b410-eb41a22e1289
+
+
 ## Install
 
 Make sure you have [`uv` installed](https://docs.astral.sh/uv/getting-started/installation/).
