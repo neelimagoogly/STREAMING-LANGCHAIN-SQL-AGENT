@@ -1,6 +1,4 @@
-![Querymancer interface](.github/banner.png)
-
-# Querymancer
+# AI SQL AGENT
 
 AI agent that lets you to talk to your database using natural language. All locally.
 
