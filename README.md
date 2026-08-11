@@ -2,23 +2,6 @@
 
 AI agent that lets you to talk to your database using natural language. All locally.
 
-Features:
-
-- Natural language to SQL query conversion
-- Database schema introspection
-- Context-aware conversation
-- Multi-model inference with:
-  - **Groq** (`llama-3.3-70b-versatile`) for general queries
-  - **SambaNova** (`DeepSeek-R1`) for complex analytical queries
-- Advanced optimization strategies:
-  - Dynamic complexity routing
-  - Token optimization pipeline
-  - Parameter auto-tuning
-  - Performance monitoring
-  - Threshold calibration
-
-Read the full tutorial on MLExpert.io: [mlexpert.io/v2-bootcamp/build-ai-agent](https://mlexpert.io/v2-bootcamp/build-ai-agent)
-
 ## Install
 
 Make sure you have [`uv` installed](https://docs.astral.sh/uv/getting-started/installation/).
