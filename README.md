@@ -9,7 +9,7 @@ Make sure you have [`uv` installed](https://docs.astral.sh/uv/getting-started/in
 Clone the repository:
 
 ```bash
-git clone [https://github.com/neelimagoogly/STREAMING-LANGCHAIN-SQL-AGENT.git](https://github.com/neelimagoogly/STREAMING-LANGCHAIN-SQL-AGENT.git) .
+git clone https://github.com/neelimagoogly/STREAMING-LANGCHAIN-SQL-AGENT.git .
 cd querymancer
 ```
 
